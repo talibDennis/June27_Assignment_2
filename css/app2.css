@@ -5,6 +5,23 @@
   box-sizing: border-box;
 }
 
+body {
+  font-size: 1.6;
+  color: #fff; /* white text color */
+  background: ;
+}
+
+header {
+  Bacground: #fff;
+  text-align: center;
+  width: 100%;
+  height: 500px;
+}
+
+#about {
+  backbroung: #ccc;
+}
+
 /* Headings */
 h1, h2, h3 {
   margin-bottom: 16px;
